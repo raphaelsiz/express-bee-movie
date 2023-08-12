@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/raphaelsiz/express-bee-movie/issues"
   },
-  "homepage": "https://github.com/raphaelsiz/express-bee-movie#readme"
+  "homepage": "https://github.com/raphaelsiz/express-bee-movie#readme",
+  "type": "module"
 }
