@@ -31,3 +31,5 @@ app.get('/',function(req,res) {
 })
 app.listen(3000)
 ```
+## Version 2 notes
+The first version (1.0.0 and 1.0.1, both of which should work the same) actually redirects the user to the link provided. This could be good for rickrolling or something. The second version (2.0.0 as of writing) sends the entirety of its content as a response as if it's your actual webpage, which may be preferred in the case of pranking indexers.
