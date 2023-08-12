@@ -1,2 +1,2 @@
-export const redirect = "https://courses.cs.washington.edu/courses/cse163/20wi/files/lectures/L04/bee-movie.txt"
-export const condition = () => true;
+export const redirect = "https://courses.cs.washington.edu/courses/cse163/20wi/files/lectures/L04/bee-movie.txt" //link to the text file of the bee movie script
+export const condition = () => true //placeholder function that always returns true
