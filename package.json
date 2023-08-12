@@ -1,0 +1,24 @@
+{
+  "name": "express-bee-movie",
+  "version": "1.0.0",
+  "description": "Express middleware that returns the bee movie script if something isn't quite right.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelsiz/express-bee-movie.git"
+  },
+  "keywords": [
+    "joke",
+    "express",
+    "web"
+  ],
+  "author": "mergerg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelsiz/express-bee-movie/issues"
+  },
+  "homepage": "https://github.com/raphaelsiz/express-bee-movie#readme"
+}
