@@ -1,6 +1,6 @@
 {
   "name": "express-bee-movie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express middleware that returns the bee movie script if something isn't quite right.",
   "main": "index.js",
   "scripts": {
